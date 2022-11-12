@@ -24,6 +24,24 @@ your task in this case study would be to build an ML model which can predict if 
 
 <!-- You can include any other section that is pertinent to your problem -->
 
+## Structure of case study
+
+1 Loading Input Data
+
+2 Null Values Replacement and Feature Engineering
+
+3 EDA
+
+4 Standardization
+
+5 PCA
+
+6 Logistic regression
+
+7 Random forest
+
+8 Creating submission file
+
 ## General Information
 
 In the telecommunication industry, customers tend to change operators if not provided with attractive schemes and offers. It is very important for any telecom operator to prevent the present customers from churning to other operators. As a data scientist, your task in this case study would be to build an ML model which can predict if the customer will churn or not in a particular month based on the past data.
