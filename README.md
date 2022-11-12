@@ -1,45 +1,75 @@
-# Welcome to Linear Regression Module
+# Telecom Churn Case Study and Churn Prediction
+**Problem Statement and Business Objective:**
 
-## TOC:
-- How to download files?
-- What is where?
+In the telecommunication industry, customers tend to change operators if not provided with attractive schemes and offers. It is very important for any telecom operator to prevent the present customers from churning to other operators. As a data scientist, your task in this case study would be to build an ML model which can predict if the customer will churn or not in a particular month based on the past data.
 
-### How to download files?
-![Screenshot (390)](https://user-images.githubusercontent.com/82654736/141263640-9c257566-a78d-421d-972f-c6990e7b1269.png)
+The company wants to know:
+- Whether a high-value customer will churn or not, in near future (i.e. churn phase). 
+- It will be used to identify important variables that are strong predictors of churn. These variables may also indicate why customers choose to switch to other networks.
+- Recommend strategies to manage customer churn based on your observations.
 
-Click on Code button and then click on Download ZIP
-OR
-Use `git clone https://github.com/ContentUpgrad/Linear-Regression.git` command on your terminal if git is installed in your machine. 
+Business Goal
+
+your task in this case study would be to build an ML model which can predict if the customer will churn or not in a particular month based on the past data.
+
+- Whether a high-value customer will churn or not, in near future (i.e. churn phase). 
+- It will be used to identify important variables that are strong predictors of churn. These variables may also indicate why customers choose to switch to other networks.
+- Recommend strategies to manage customer churn based on your observations.
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
+
+<!-- You can include any other section that is pertinent to your problem -->
+
+## General Information
+
+In the telecommunication industry, customers tend to change operators if not provided with attractive schemes and offers. It is very important for any telecom operator to prevent the present customers from churning to other operators. As a data scientist, your task in this case study would be to build an ML model which can predict if the customer will churn or not in a particular month based on the past data.
+
+The company wants to know:
+- Whether a high-value customer will churn or not, in near future (i.e. churn phase). 
+- It will be used to identify important variables that are strong predictors of churn. These variables may also indicate why customers choose to switch to other networks.
+- Recommend strategies to manage customer churn based on your observations.
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Conclusions
+- We have build Logistic and Random forest model.We went ahead with Random forest model to predict churn output ,since it's accuracy is 92.60 %
+- 
 
 
-### What is where?
-The folder structure is given below:
+## Technologies Used
 
-![Screenshot (392)](https://user-images.githubusercontent.com/82654736/141263874-50c65df3-0f97-417d-a6d9-57c0157c138a.png)
+-library 1 -pandas
 
+-library 2- matplotlib
 
-As you can see there are three main folders when you log in:
+-library 3- warnings
 
-1. **Industry Relevance of Linear Regression** This is where all the code files regarding Industry Relevance of Linear Regression sessions are kept
-2. **Multiple Linear Regression in Python** This is where all the code files regarding Multiple Linear Regression in Python session are kept
-3. **Simple Linear Regression in Python**This is where all the code files regarding Simple Linear Regression in Python session are kept
+-library 4 -numpy
 
-When you click on any folder you will find the code and data folders as shown below:
-![Screenshot (394)](https://user-images.githubusercontent.com/82654736/141264101-99f161db-9d64-492d-acde-13770881c108.png)
+-library 5 -seaborn
 
-You will find all the code files of the session in code folder and data folder will be empty. Please note that you need to follow the instructions given in the segment for downloading data files and keep it in the data folder manually.
-
-#### Industry Relevance of Linear Regression
-You will find the following files in the code folder of Industry Relevance of Linear Regression
-![Screenshot (394)](https://user-images.githubusercontent.com/82654736/141264294-44581d9d-fdfd-41b9-a95b-ebff540c2b1f.png)
+-library 6- sklearn
+-library 7- Random Forest
 
 
-#### Multiple Linear Regression in Python
-You will find the following files in the code folder of Multiple Linear Regression in Python
-![Screenshot (397)](https://user-images.githubusercontent.com/82654736/141264551-e250616e-c4e2-419e-8357-9abc2ec42372.png)
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Acknowledgements
+Give credit here.
+
+This project is completed after successfully completing the Advance learning session module provided by IIITB & UpGrad .
 
 
-#### Simple Linear Regression in Python
-You will find the following files in the code folder of Simple Linear Regression in Python
-![Screenshot (398)](https://user-images.githubusercontent.com/82654736/141264584-dd3831db-b4d4-4207-ae8f-103a64f9b27c.png)
+## Contact
+Created by [@PrakashShri] - feel free to contact me!
 
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
