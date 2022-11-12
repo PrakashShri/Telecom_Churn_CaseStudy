@@ -24,21 +24,14 @@ Business Goal
 
 ## Structure of case study
 
-1 Loading Input Data
-
-2 Null Values Replacement and Feature Engineering
-
-3 EDA
-
-4 Standardization
-
-5 PCA
-
-6 Logistic regression
-
-7 Random forest
-
-8 Creating submission file
+1. Loading Input Data
+2. Null Values Replacement and Feature Engineering
+3. EDA
+4. Standardization
+5. PCA
+6. Logistic regression
+7. Random forest
+8. Creating submission file
 
 ## General Information
 
@@ -58,18 +51,13 @@ The company wants to know:
 
 ## Technologies Used
 
--library 1 -pandas
-
--library 2- matplotlib
-
--library 3- warnings
-
--library 4 -numpy
-
--library 5 -seaborn
-
--library 6- sklearn
--library 7- Random Forest
+- library 1 -pandas
+- library 2- matplotlib
+- library 3- warnings
+- library 4 -numpy
+- library 5 -seaborn
+- library 6- sklearn
+- library 7- Random Forest
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
