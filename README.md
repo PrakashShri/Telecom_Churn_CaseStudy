@@ -10,8 +10,6 @@ The company wants to know:
 
 Business Goal
 
-your task in this case study would be to build an ML model which can predict if the customer will churn or not in a particular month based on the past data.
-
 - Whether a high-value customer will churn or not, in near future (i.e. churn phase). 
 - It will be used to identify important variables that are strong predictors of churn. These variables may also indicate why customers choose to switch to other networks.
 - Recommend strategies to manage customer churn based on your observations.
@@ -55,7 +53,7 @@ The company wants to know:
 
 ## Conclusions
 - We have build Logistic and Random forest model.We went ahead with Random forest model to predict churn output ,since it's accuracy is 92.60 %
-- 
+
 
 
 ## Technologies Used
